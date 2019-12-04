@@ -24,6 +24,11 @@
 - One board for DanceDanceRevolution and/or StepMania with no lights and only 4 panels/buttons (if lights or additional buttons are needed, follow the pins for pop'n music)
 - One board for pop'n music with 9 buttons and lights
 
+# Tested On
+- bemanitools 4.21 (SDVX 3 & 4, pop'n 23, DDR 2014)
+- SpiceTools (a few releases in 2019; SDVX 3 & 4)
+- StepMania 5 (DDR pad)
+
 # Pins
 - There are 3 separate **GND** pins that all function as ground
 - All Buttons share a **GND** pin
